@@ -1,2 +1,3 @@
-# Plutus-playground-tests
-Testing Plutus smart contracts and learning Haskell basics
+# Plutus Playground Tests
+Small experiments with Plutus smart contracts.  
+Purpose: Practice writing and deploying contracts on the Plutus Playground.
